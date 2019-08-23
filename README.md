@@ -11,3 +11,7 @@ xposed for wx
 - 发朋友圈
 - 对朋友圈进行点赞和回复
 - 自动抢红包
+
+## 技术栈
+- php Swoole
+- xposed
